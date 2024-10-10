@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![snake gif](https://github.com/Paola-Tomaz/Paola-Tomaz/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **Paola-Tomaz/Paola-Tomaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
