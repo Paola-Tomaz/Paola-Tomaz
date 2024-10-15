@@ -1,11 +1,9 @@
 
 
 <h1>
-     <a href="https://imgbox.com/ELiKo8ii" target="_blank"><img src="https://thumbs2.imgbox.com/d0/a3/ELiKo8ii_t.png" alt="Avatar Paola Prado"/></a>
      <a href="https://ibb.co/JdTngHQ"><img src="https://i.ibb.co/0XLqvrt/coding.png" align="right" width="400" alt="coding" border="0"></a>
-     
-
      👩🏽‍💻 Paola Tomaz
+  
 </h1>
 
 <p align="justify">Exploradora incansável do mundo da tecnologia, estou mergulhando de cabeça no desenvolvimento full stack, aprendendo a cada dia a transformar ideias em código funcional. Além de amar desafios e resolver problemas, minha curiosidade e paixão vai além das telas: sou apaixonada por animais, natureza, jogos, animes e filmes. Evoluindo constantemente e sempre disposta a aprender.</a></p>
