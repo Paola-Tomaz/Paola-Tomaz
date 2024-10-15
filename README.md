@@ -1,44 +1,39 @@
-<h2 align="left">Olá! Sou a Paola, uma estudante de Desenvolvimento Full-Stack 👩🏽‍💻 </h2>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paola-Tomaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paola-Tomaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h1>
+     <a href="https://imgbox.com/ELiKo8ii" target="_blank"><img src="https://thumbs2.imgbox.com/d0/a3/ELiKo8ii_t.png" alt="Avatar Paola Prado"/></a>
+     <a href="https://ibb.co/JdTngHQ"><img src="https://i.ibb.co/0XLqvrt/coding.png" align="right" width="400" alt="coding" border="0"></a>
+     
 
-###
+     👩🏽‍💻 Paola Tomaz
+</h1>
 
-<a href="https://ibb.co/8jbGF37"><img align="right" height="150" src="https://i.ibb.co/8jbGF37/download20241004161656.png" alt="download20241004161656" border="0"></a> 
+<p align="justify">Exploradora incansável do mundo da tecnologia, estou mergulhando de cabeça no desenvolvimento full stack, aprendendo a cada dia a transformar ideias em código funcional. Além de amar desafios e resolver problemas, minha curiosidade e paixão vai além das telas: sou apaixonada por animais, natureza, jogos, animes e filmes. Evoluindo constantemente e sempre disposta a aprender.</a></p>
+<!--
+[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://Paola-Tomaz.github.io/)
+[![GitHub Page](https://img.shields.io/badge/Paola-Tomaz.github.io-67136f?style=for-the-badge)](https://Paola-Tomaz.github.io/)
+-->
 
-###
+### Se conecte comigo: 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF70A6&color:FFF)](https://www.linkedin.com/in/paola-tomaz-prado/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=#FF70A6&color:FFF)](https://www.instagram.com/wavesofcloud._)
 
-###
+### GitHub Stats
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Paola-Tomaz&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF70A6&text_color=FFF&border_radius=3&border_color=36023c&icon_color=FF70A6&theme=jolly)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Paola-Tomaz&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF70A6&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/Paola-Tomaz/github-readme-stats)
+
+<details align="left">
+  <summary></summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+ 
+  <div align="right">By ❤ <a href="https://github.com/Paola-Tomaz">Paola &#128513</a>.</div>
+
+</details>
+
 
 ###
 
