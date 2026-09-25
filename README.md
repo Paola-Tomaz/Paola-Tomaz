@@ -6,7 +6,7 @@
   
 </h1>
 
-<p align="justify">Exploradora incansável do mundo da tecnologia, estou mergulhando de cabeça no desenvolvimento full stack, aprendendo a cada dia a transformar ideias em código funcional. Além de amar desafios e resolver problemas, minha curiosidade e paixão vai além das telas: sou apaixonada por animais, natureza, jogos, animes e filmes. Evoluindo constantemente e sempre disposta a aprender.</a></p>
+<p align="justify">Exploradora incansável do mundo da tecnologia, estou mergulhando de cabeça no desenvolvimento full stack e na cibersegurança, aprendendo a cada dia a transformar ideias em código funcional. Além de amar desafios e resolver problemas, minha curiosidade e paixão vai além das telas: sou apaixonada por animais, natureza, jogos, animes e filmes. Evoluindo constantemente e sempre disposta a aprender.</a></p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://Paola-Tomaz.github.io/)
 [![GitHub Page](https://img.shields.io/badge/Paola-Tomaz.github.io-67136f?style=for-the-badge)](https://Paola-Tomaz.github.io/)
